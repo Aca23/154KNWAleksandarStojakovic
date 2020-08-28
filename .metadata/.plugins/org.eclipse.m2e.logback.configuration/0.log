@@ -985,3 +985,119 @@ Caused by: java.io.EOFException: no more data available - expected end tag </pro
 2020-08-28 15:09:12,010 [Worker-22: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-p: m154-crm-web:m154-crm-p:0.0.1-SNAPSHOT with classifier  to /m154-crm-p/target/classes
 2020-08-28 15:09:12,011 [Worker-22: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-b: m154-crm-web:m154-crm-b:0.0.1-SNAPSHOT with classifier  to /m154-crm-b/target/classes
 2020-08-28 15:09:12,060 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:09:12,060 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:09:12,061 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:09:12,062 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:14:15,035 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:14:15,035 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:14:15,038 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:14:15,038 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:14:47,677 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:14:47,678 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:14:47,680 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:14:47,681 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:15:01,757 [Worker-25: Launching Executing install in C__workspace_M154_knw_workspace_M154_knw_m154-crm-w] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w
+2020-08-28 15:15:01,757 [Worker-25: Launching Executing install in C__workspace_M154_knw_workspace_M154_knw_m154-crm-w] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-08-28 15:15:14,241 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:15:14,242 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:15:14,245 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:15:14,246 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:15:35,554 [Worker-26: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SpielwarenAG:m154-crm-w:0.0.1-SNAPSHOT @ C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\pom.xml.
+2020-08-28 15:15:35,728 [Worker-26: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-p: m154-crm-web:m154-crm-p:0.0.1-SNAPSHOT with classifier  to /m154-crm-p/target/classes
+2020-08-28 15:15:35,728 [Worker-26: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-b: m154-crm-web:m154-crm-b:0.0.1-SNAPSHOT with classifier  to /m154-crm-b/target/classes
+2020-08-28 15:15:35,973 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:15:35,973 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:15:35,975 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:15:35,975 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:16:15,988 [Worker-21: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-p: m154-crm-web:m154-crm-p:0.0.1-SNAPSHOT with classifier  to /m154-crm-p/target/classes
+2020-08-28 15:16:15,989 [Worker-21: reload maven project] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-b: m154-crm-web:m154-crm-b:0.0.1-SNAPSHOT with classifier  to /m154-crm-b/target/classes
+2020-08-28 15:16:16,504 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SpielwarenAG:m154-crm-w:0.0.1-SNAPSHOT @ C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\pom.xml.
+2020-08-28 15:16:16,694 [Worker-24: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-p: m154-crm-web:m154-crm-p:0.0.1-SNAPSHOT with classifier  to /m154-crm-p/target/classes
+2020-08-28 15:16:16,694 [Worker-24: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-b: m154-crm-web:m154-crm-b:0.0.1-SNAPSHOT with classifier  to /m154-crm-b/target/classes
+2020-08-28 15:16:16,980 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:16:16,981 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:16:16,983 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:16:16,983 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:16:42,323 [Worker-21: Launching Executing install in C__workspace_M154_knw_workspace_M154_knw_m154-crm-w] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w
+2020-08-28 15:16:42,323 [Worker-21: Launching Executing install in C__workspace_M154_knw_workspace_M154_knw_m154-crm-w] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-08-28 15:16:57,998 [Worker-21: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-p: m154-crm-web:m154-crm-p:0.0.1-SNAPSHOT with classifier  to /m154-crm-p/target/classes
+2020-08-28 15:16:57,998 [Worker-21: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-b: m154-crm-web:m154-crm-b:0.0.1-SNAPSHOT with classifier  to /m154-crm-b/target/classes
+2020-08-28 15:16:58,057 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:16:58,057 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:16:58,059 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:16:58,059 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:17:48,062 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:17:48,063 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:17:48,064 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:17:48,065 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:17:55,079 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:17:55,080 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:17:55,082 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:17:55,083 [Worker-26: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:18:08,923 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:18:08,924 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:18:08,925 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:18:08,926 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:19:37,908 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:19:37,909 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:19:37,910 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:19:37,910 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:19:47,382 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:19:47,382 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:19:47,384 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:19:47,384 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:20:02,122 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:20:02,123 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:20:02,126 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:20:02,126 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:21:21,813 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:21:21,813 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:21:21,815 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:21:21,815 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:21:34,005 [Worker-26: Launching Executing install in C__workspace_M154_knw_workspace_M154_knw_m154-crm-w] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w
+2020-08-28 15:21:34,005 [Worker-26: Launching Executing install in C__workspace_M154_knw_workspace_M154_knw_m154-crm-w] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-08-28 15:21:47,762 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:21:47,762 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:21:47,764 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:21:47,764 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:22:12,074 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:22:12,074 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:22:12,076 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:22:12,077 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:22:22,961 [Worker-24: Launching Executing install in C__workspace_M154_knw_workspace_M154_knw_m154-crm-w] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w
+2020-08-28 15:22:22,961 [Worker-24: Launching Executing install in C__workspace_M154_knw_workspace_M154_knw_m154-crm-w] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-08-28 15:22:36,577 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:22:36,578 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:22:36,580 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:22:36,580 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:24:15,006 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:24:15,006 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:24:15,007 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:24:15,008 [Worker-25: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:24:21,949 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:24:21,950 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:24:21,951 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:24:21,952 [Worker-21: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:24:27,235 [Worker-27: Launching Executing install in C__workspace_M154_knw_workspace_M154_knw_m154-crm-w] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w
+2020-08-28 15:24:27,235 [Worker-27: Launching Executing install in C__workspace_M154_knw_workspace_M154_knw_m154-crm-w] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-08-28 15:24:45,575 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:24:45,575 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:24:45,578 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:24:45,578 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:28:14,192 [Worker-22: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: SpielwarenAG:m154-crm-w:0.0.1-SNAPSHOT @ C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\pom.xml.
+2020-08-28 15:28:14,366 [Worker-22: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-p: m154-crm-web:m154-crm-p:0.0.1-SNAPSHOT with classifier  to /m154-crm-p/target/classes
+2020-08-28 15:28:14,367 [Worker-22: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-b: m154-crm-web:m154-crm-b:0.0.1-SNAPSHOT with classifier  to /m154-crm-b/target/classes
+2020-08-28 15:28:14,644 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:28:14,645 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:28:14,647 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:28:14,647 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:28:19,630 [Worker-26: Launching Executing install in C__workspace_M154_knw_workspace_M154_knw_m154-crm-w] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w
+2020-08-28 15:28:19,631 [Worker-26: Launching Executing install in C__workspace_M154_knw_workspace_M154_knw_m154-crm-w] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-08-28 15:28:59,400 [Worker-22: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-p: m154-crm-web:m154-crm-p:0.0.1-SNAPSHOT with classifier  to /m154-crm-p/target/classes
+2020-08-28 15:28:59,401 [Worker-22: Building] INFO  o.e.m.c.i.p.WorkspaceClassifierResolverManager - Resolving P/m154-crm-b: m154-crm-web:m154-crm-b:0.0.1-SNAPSHOT with classifier  to /m154-crm-b/target/classes
+2020-08-28 15:28:59,463 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:28:59,464 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:28:59,465 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:28:59,466 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
+2020-08-28 15:29:19,759 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2020-08-28 15:29:27,965 [Worker-27: Launching m154-crm-w] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w

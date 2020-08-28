@@ -103,7 +103,7 @@
 					<!--authConfig> <username>[TODO]</username> </authConfig -->
 					<images>
 						<image>
-							<name>aleksandar23m154crmKNW</name>
+							<name>aleksandar23/m154-crm-knw</name>
 							<build>
 								<dockerFileDir>${project.basedir}</dockerFileDir>
 								<assembly>
