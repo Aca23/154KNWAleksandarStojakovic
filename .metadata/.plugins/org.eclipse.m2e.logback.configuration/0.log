@@ -1101,3 +1101,7 @@ Caused by: java.io.EOFException: no more data available - expected end tag </pro
 2020-08-28 15:28:59,466 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\test\resources
 2020-08-28 15:29:19,759 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
 2020-08-28 15:29:27,965 [Worker-27: Launching m154-crm-w] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w
+2020-08-28 15:29:27,965 [Worker-27: Launching m154-crm-w] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B deploy
+2020-08-28 15:38:14,166 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-08-28 15:38:14,166 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\workspace_M154_knw\workspace_M154_knw\m154-crm-w\src\main\resources
+2020-08-28 15:38:14,168 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
