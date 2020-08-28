@@ -1,0 +1,1496 @@
+!SESSION 2019-05-28 09:15:23.778 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data C:\Dev\Uek\2019\workspace_M154_knw -product org.eclipse.epp.package.jee.product
+
+This is a continuation of log file C:\Dev\Uek\2019\workspace_M154_knw\.metadata\.bak_0.log
+Created Time: 2019-05-28 09:19:16.231
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.233
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.235
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.237
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.239
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.241
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.243
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.245
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.247
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.249
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.251
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.253
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.255
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.257
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.259
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.261
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.263
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.265
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.267
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.269
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.272
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.274
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.276
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.278
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.280
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.282
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.284
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.287
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.289
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.291
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.293
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.295
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.297
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.299
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.301
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.303
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.306
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.308
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.310
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.312
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.314
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.316
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.319
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.321
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.323
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.325
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.327
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.329
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.332
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.334
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.336
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.338
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.340
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.342
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.345
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.347
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.349
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.351
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.353
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.355
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.357
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.359
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.362
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.364
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.366
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.368
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.375
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.378
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.381
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.383
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.385
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.388
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.390
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.392
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.394
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.396
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.398
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.400
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.403
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.405
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.408
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.410
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.412
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.414
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.416
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.419
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.421
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.423
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.425
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.427
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.429
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.432
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.434
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.436
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.438
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.441
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.443
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.445
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.447
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.449
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.452
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.454
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.456
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.459
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.461
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.463
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.465
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.467
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.469
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.472
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.474
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.476
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.478
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.480
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.482
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.485
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.487
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.489
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.491
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.493
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.495
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.498
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.500
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.502
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.505
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.507
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.509
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.511
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.513
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.516
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.518
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.520
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.522
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.524
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.526
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.529
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.531
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.533
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.535
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.537
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.539
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.542
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.544
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.546
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.548
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.550
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.551
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.555
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.556
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.558
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.560
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.563
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.565
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.567
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.569
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.571
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.574
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.576
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.579
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.581
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.583
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.585
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.588
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.590
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.592
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.594
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.596
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.599
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.601
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.603
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.605
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.608
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.610
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.612
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.614
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.616
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.618
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.621
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.623
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.625
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.627
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.629
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.632
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.634
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.636
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.638
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.641
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.643
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.645
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.647
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.649
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.652
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.654
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.656
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.659
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.661
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.663
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.665
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.667
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.669
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.672
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.674
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.676
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.678
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.680
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.682
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.685
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.687
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.689
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.691
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.694
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.696
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.698
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.700
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.702
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.705
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.707
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.709
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.711
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.713
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.715
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.717
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.720
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.722
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.724
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.726
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.728
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.730
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.733
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.735
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.737
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.740
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.742
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.744
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.746
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.748
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.750
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.753
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.755
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.757
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.759
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.762
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.764
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.766
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.768
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.770
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.772
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.774
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.776
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.779
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.780
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.782
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.785
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.787
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.789
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.792
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.794
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.796
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.798
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.800
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.803
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.805
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.807
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.809
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.811
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.814
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.816
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.818
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.820
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.823
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.826
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.828
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.830
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.832
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.834
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.837
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.839
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.841
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.843
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.845
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.847
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.850
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.851
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.853
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.856
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.858
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.860
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.862
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.865
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.867
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.869
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.871
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.874
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.876
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.878
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.880
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.882
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.885
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.887
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.889
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.892
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.894
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.896
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.898
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.901
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.903
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.905
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.908
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.910
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.912
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.914
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.916
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.919
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.921
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.923
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.925
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.928
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.930
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.932
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.934
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+
+!ENTRY com.gwtplugins.gwt.eclipse.core 4 0 2019-05-28 09:19:16.936
+!MESSAGE isGWTProject(project) hasGwtnature exception Resource '/crm_web' does not exist.
+!SESSION 2019-05-28 10:27:44.170 -----------------------------------------------
+eclipse.buildId=4.11.0.I20190307-0500
+java.version=11.0.2
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product -data C:\Dev\Uek\2019\workspace_M154_knw -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.egit.core 1 0 2019-05-28 10:27:46.342
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-28 10:27:48.362
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY org.eclipse.egit.ui 2 0 2019-05-28 10:27:50.376
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\mike'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.jface.text 2 0 2019-05-28 10:28:06.402
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.boolean'
+
+!ENTRY com.gwtplugins.gwt.eclipse.wtp 1 1 2019-05-28 10:28:23.322
+!MESSAGE GWT: GWT Facet startup
+!SESSION 2020-07-26 13:25:26.259 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-07-26 13:25:44.892
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-07-26 13:25:44.892
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@28b47211,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@4abb4041,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-26 13:25:48.420
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\mike'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-07-26 13:25:48.443
+!MESSAGE Removing PartDescriptorImpl with the "com.gwtplugins.gwt.eclipse.DevModeView" id and the "Development Mode" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+!SESSION 2020-07-26 14:09:01.431 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-07-26 14:09:40.620
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-07-26 14:09:40.620
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@3a286095,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@26723525,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-07-26 14:09:44.336
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\mike'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 4 0 2020-07-26 14:16:13.058
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.internal.compiler.ast.ParameterizedSingleTypeReference.internalResolveLeafType(ParameterizedSingleTypeReference.java:200)
+	at org.eclipse.jdt.internal.compiler.ast.ParameterizedSingleTypeReference.internalResolveType(ParameterizedSingleTypeReference.java:174)
+	at org.eclipse.jdt.internal.compiler.ast.ParameterizedSingleTypeReference.resolveType(ParameterizedSingleTypeReference.java:390)
+	at org.eclipse.jdt.internal.compiler.ast.TypeReference.resolveType(TypeReference.java:634)
+	at org.eclipse.jdt.internal.compiler.ast.LocalDeclaration.resolve(LocalDeclaration.java:293)
+	at org.eclipse.jdt.internal.compiler.ast.LocalDeclaration.resolve(LocalDeclaration.java:270)
+	at org.eclipse.jdt.internal.codeassist.select.SelectionOnLocalName.resolve(SelectionOnLocalName.java:32)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine$1Visitor.visit(SelectionEngine.java:1440)
+	at org.eclipse.jdt.internal.compiler.ast.LocalDeclaration.traverse(LocalDeclaration.java:495)
+	at org.eclipse.jdt.internal.compiler.ast.Block.traverse(Block.java:154)
+	at org.eclipse.jdt.internal.compiler.ast.LambdaExpression.traverse(LambdaExpression.java:778)
+	at org.eclipse.jdt.internal.compiler.ast.FieldDeclaration.traverse(FieldDeclaration.java:380)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.selectLocalDeclaration(SelectionEngine.java:1518)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:1078)
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:168)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:388)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:381)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:116)
+	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4213)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1037)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4030)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3630)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+
+!ENTRY org.eclipse.ui 4 0 2020-07-26 14:16:13.067
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.internal.compiler.ast.ParameterizedSingleTypeReference.internalResolveLeafType(ParameterizedSingleTypeReference.java:200)
+	at org.eclipse.jdt.internal.compiler.ast.ParameterizedSingleTypeReference.internalResolveType(ParameterizedSingleTypeReference.java:174)
+	at org.eclipse.jdt.internal.compiler.ast.ParameterizedSingleTypeReference.resolveType(ParameterizedSingleTypeReference.java:390)
+	at org.eclipse.jdt.internal.compiler.ast.TypeReference.resolveType(TypeReference.java:634)
+	at org.eclipse.jdt.internal.compiler.ast.LocalDeclaration.resolve(LocalDeclaration.java:293)
+	at org.eclipse.jdt.internal.compiler.ast.LocalDeclaration.resolve(LocalDeclaration.java:270)
+	at org.eclipse.jdt.internal.codeassist.select.SelectionOnLocalName.resolve(SelectionOnLocalName.java:32)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine$1Visitor.visit(SelectionEngine.java:1440)
+	at org.eclipse.jdt.internal.compiler.ast.LocalDeclaration.traverse(LocalDeclaration.java:495)
+	at org.eclipse.jdt.internal.compiler.ast.Block.traverse(Block.java:154)
+	at org.eclipse.jdt.internal.compiler.ast.LambdaExpression.traverse(LambdaExpression.java:778)
+	at org.eclipse.jdt.internal.compiler.ast.FieldDeclaration.traverse(FieldDeclaration.java:380)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.selectLocalDeclaration(SelectionEngine.java:1518)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:1078)
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:168)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:388)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:381)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:116)
+	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4213)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1037)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4030)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3630)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+
+!ENTRY org.eclipse.ui 4 0 2020-07-26 14:16:13.075
+!MESSAGE Unhandled event loop exception
+!STACK 0
+java.lang.NullPointerException
+	at org.eclipse.jdt.internal.compiler.ast.ParameterizedSingleTypeReference.internalResolveLeafType(ParameterizedSingleTypeReference.java:200)
+	at org.eclipse.jdt.internal.compiler.ast.ParameterizedSingleTypeReference.internalResolveType(ParameterizedSingleTypeReference.java:174)
+	at org.eclipse.jdt.internal.compiler.ast.ParameterizedSingleTypeReference.resolveType(ParameterizedSingleTypeReference.java:390)
+	at org.eclipse.jdt.internal.compiler.ast.TypeReference.resolveType(TypeReference.java:634)
+	at org.eclipse.jdt.internal.compiler.ast.LocalDeclaration.resolve(LocalDeclaration.java:293)
+	at org.eclipse.jdt.internal.compiler.ast.LocalDeclaration.resolve(LocalDeclaration.java:270)
+	at org.eclipse.jdt.internal.codeassist.select.SelectionOnLocalName.resolve(SelectionOnLocalName.java:32)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine$1Visitor.visit(SelectionEngine.java:1440)
+	at org.eclipse.jdt.internal.compiler.ast.LocalDeclaration.traverse(LocalDeclaration.java:495)
+	at org.eclipse.jdt.internal.compiler.ast.Block.traverse(Block.java:154)
+	at org.eclipse.jdt.internal.compiler.ast.LambdaExpression.traverse(LambdaExpression.java:778)
+	at org.eclipse.jdt.internal.compiler.ast.FieldDeclaration.traverse(FieldDeclaration.java:380)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.selectLocalDeclaration(SelectionEngine.java:1518)
+	at org.eclipse.jdt.internal.codeassist.SelectionEngine.select(SelectionEngine.java:1078)
+	at org.eclipse.jdt.internal.core.Openable.codeSelect(Openable.java:168)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:388)
+	at org.eclipse.jdt.internal.core.CompilationUnit.codeSelect(CompilationUnit.java:381)
+	at org.eclipse.jdt.internal.ui.javaeditor.JavaElementHyperlinkDetector.detectHyperlinks(JavaElementHyperlinkDetector.java:116)
+	at org.eclipse.ui.texteditor.HyperlinkDetectorRegistry$HyperlinkDetectorDelegate.detectHyperlinks(HyperlinkDetectorRegistry.java:81)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:289)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.findHyperlinks(HyperlinkManager.java:262)
+	at org.eclipse.jface.text.hyperlink.HyperlinkManager.mouseMove(HyperlinkManager.java:457)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:216)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:89)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4213)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1037)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4030)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3630)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$5.run(PartRenderingEngine.java:1158)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1047)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:155)
+	at org.eclipse.ui.internal.Workbench.lambda$3(Workbench.java:658)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:338)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:557)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:154)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:150)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:203)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:137)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:107)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:401)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:255)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:657)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:594)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1447)
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:20:27.216
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:20:27.220
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:20:27.227
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:20:27.233
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:20:27.240
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:20:27.245
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:20:27.252
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:20:27.257
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:20:27.262
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:20:27.267
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:26.145
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:26.149
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:26.153
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:26.157
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:26.161
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:26.165
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:26.169
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:26.173
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:26.177
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:26.181
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:28.414
+!MESSAGE No line style provider for org.eclipse.wst.sse.ST_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:28.419
+!MESSAGE No line style provider for org.eclipse.wst.sse.UNKNOWN_PARTITION_TYPE
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:28.424
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DEFAULT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:28.429
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_CDATA
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:28.433
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_DECL
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:28.437
+!MESSAGE No line style provider for org.eclipse.wst.xml.XML_COMMENT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:28.441
+!MESSAGE No line style provider for org.eclipse.wst.xml.dtd.internal_subset
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:28.444
+!MESSAGE No line style provider for org.eclipse.wst.xml.PROCESSING_INSTRUCTION:
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:28.448
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT
+
+!ENTRY org.eclipse.wst.html.ui 1 1 2020-07-26 14:31:28.450
+!MESSAGE No line style provider for org.eclipse.wst.html.SCRIPT.EVENTHANDLER
+!SESSION 2020-08-05 13:36:48.471 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.eclipse.jface 2 0 2020-08-05 13:36:55.683
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-08-05 13:36:55.683
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@6d4df1d2,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@70ca8e72,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-08-05 13:36:59.100
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\mike'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+!SESSION 2020-08-28 10:21:30.097 -----------------------------------------------
+eclipse.buildId=4.16.0.I20200604-0540
+java.version=13
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=de_CH
+Framework arguments:  -product org.eclipse.epp.package.java.product -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.java.product -data C:\workspace_M154_knw\workspace_M154_knw -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.jface 2 0 2020-08-28 10:21:42.222
+!MESSAGE Keybinding conflicts occurred.  They may interfere with normal accelerator operation.
+!SUBENTRY 1 org.eclipse.jface 2 0 2020-08-28 10:21:42.222
+!MESSAGE A conflict occurred for CTRL+SHIFT+T:
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.jdt.ui.navigate.open.type,Open Type,
+		Open a type in a Java editor,
+		Category(org.eclipse.ui.category.navigate,Navigate,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@24f90aff,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+Binding(CTRL+SHIFT+T,
+	ParameterizedCommand(Command(org.eclipse.lsp4e.symbolinworkspace,Go to Symbol in Workspace,
+		,
+		Category(org.eclipse.lsp4e.category,Language Servers,null,true),
+		org.eclipse.ui.internal.WorkbenchHandlerServiceHandler@7252bdb,
+		,,true),null),
+	org.eclipse.ui.defaultAcceleratorConfiguration,
+	org.eclipse.ui.contexts.window,,,system)
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:50.659
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.datatools.connectivity.DataSourceExplorerNavigator" id and the "Data Source Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:50.699
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.datatools.sqltools.plan.planView" id and the "Execution Plan" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:50.859
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.datatools.sqltools.result.resultView" id and the "SQL Results" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:50.877
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.gef.ui.palette_view" id and the "Palette" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:50.917
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jpt.ui.jpaStructureView" id and the "JPA Structure" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:50.994
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jpt.ui.jpaDetailsView" id and the "JPA Details" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.012
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jst.jsf.ui.component.ComponentTreeView" id and the "JSF Component Tree" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.029
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jst.jsf.ui.tagregistry.TagRegistryView" id and the "Tag Registry" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.041
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.jst.ws.jaxws.ui.views.AnnotationsView" id and the "Annotation Properties" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.059
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.api.tools.ui.views.apitooling.views.apitoolingview" id and the "API Tools" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.072
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.runtime.RegistryBrowser" id and the "Plug-in Registry" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.112
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.PluginsView" id and the "Plug-ins" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.159
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.DependenciesView" id and the "Plug-in Dependencies" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.180
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.TargetPlatformState" id and the "Target Platform State" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.200
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.ImageBrowserView" id and the "Plug-in Image Browser" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.241
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.systemView" id and the "Remote Systems" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.282
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.teamView" id and the "Team" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.297
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.systemTableView" id and the "Remote System Details" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.314
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.SystemSearchView" id and the "Remote Search" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.347
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.scratchpad.SystemScratchpadViewPart" id and the "Remote Scratchpad" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.367
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.rse.ui.view.monitorView" id and the "Remote Monitor" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.396
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.tm.terminal.view.ui.TerminalsView" id and the "Terminal" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.470
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.tcf.te.ui.terminals.TerminalsView" id and the "Terminals (Old)" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.egit.ui 2 0 2020-08-28 10:21:51.508
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\admin'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.527
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.common.snippets.internal.ui.SnippetsView" id and the "Snippets" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.553
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.internet.monitor.view" id and the "TCP/IP Monitor" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.568
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.jsdt.ui.TypeHierarchy" id and the "Hierarchy" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.580
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.jsdt.ui.PackageExplorer" id and the "Script Explorer" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.593
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.jsdt.callhierarchy.view" id and the "Call Hierarchy" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.607
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.jsdt.ui.SourceView" id and the "Declaration" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.648
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.jsdt.ui.JavadocView" id and the "Documentation" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.676
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.server.ui.ServersView" id and the "Servers" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.714
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.xml.views.XPathView" id and the "XPath" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.756
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.xsl.jaxp.debug.ui.resultview" id and the "Result" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.781
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.wst.xsl.ui.view.outline" id and the "Stylesheet Model" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled
+
+!ENTRY org.eclipse.e4.ui.workbench 2 0 2020-08-28 10:21:51.794
+!MESSAGE Removing PartDescriptorImpl with the "org.eclipse.pde.ui.FeaturesView" id and the "Features" label.It points to the non available "bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityView" class. Bundle might have been uninstalled

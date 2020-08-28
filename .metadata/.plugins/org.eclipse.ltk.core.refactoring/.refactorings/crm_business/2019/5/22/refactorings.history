@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move 2 packages to &apos;crm_persistence/src&apos;&#x0D;&#x0A;- Original project: &apos;crm_business&apos;&#x0D;&#x0A;- Destination element: &apos;crm_persistence/src&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     crm_business/src/ch.ilv.crm.persistence&#x0D;&#x0A;     crm_business/src/ch.ilv.crm.test.persistence&#x0D;&#x0A;- Update references to refactored element" description="Move packages" destination="=crm_persistence/src" element1="/src&lt;ch.ilv.crm.persistence" element2="/src&lt;ch.ilv.crm.test.persistence" flags="589830" fragments="2" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1559027773953" version="1.0"/>
+</session>
