@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="ch.ilv.crm.web.Path"/>
     <fullyQualifiedTypeName name="io.javalin.http.Handler"/>
     <fullyQualifiedTypeName name="io.javalin.http.ErrorHandler"/>
     <fullyQualifiedTypeName name="io.javalin.http.staticfiles.Location"/>
+    <fullyQualifiedTypeName name="ch.ilv.crm.web.Path"/>
+    <fullyQualifiedTypeName name="ch.ilv.crm.web.controller.CustomerController"/>
+    <fullyQualifiedTypeName name="m154_crm_web.m154_crm_w.web.Path"/>
+    <fullyQualifiedTypeName name="ch.ilv.crm.persistence.customer.ICustomerDAO"/>
+    <fullyQualifiedTypeName name="ch.ilv.crm.persistence.customer.CustomerDAOFactory"/>
 </qualifiedTypeNameHistroy>
